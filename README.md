@@ -5,3 +5,4 @@ Coisas de PJ1
 
 - B4
   - [AV1](b4-av1.md)
+  - [AV2](https://github.com/matheuslessarodrigues/pj1-dice)
